@@ -1,0 +1,14 @@
+C:\Users\szucs.szilard\Desktop\berek-beadando\berek_2020\berek_2020\bin\Debug\net8.0\berek_2020.exe
+C:\Users\szucs.szilard\Desktop\berek-beadando\berek_2020\berek_2020\bin\Debug\net8.0\berek_2020.deps.json
+C:\Users\szucs.szilard\Desktop\berek-beadando\berek_2020\berek_2020\bin\Debug\net8.0\berek_2020.runtimeconfig.json
+C:\Users\szucs.szilard\Desktop\berek-beadando\berek_2020\berek_2020\bin\Debug\net8.0\berek_2020.dll
+C:\Users\szucs.szilard\Desktop\berek-beadando\berek_2020\berek_2020\bin\Debug\net8.0\berek_2020.pdb
+C:\Users\szucs.szilard\Desktop\berek-beadando\berek_2020\berek_2020\obj\Debug\net8.0\berek_2020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szucs.szilard\Desktop\berek-beadando\berek_2020\berek_2020\obj\Debug\net8.0\berek_2020.AssemblyInfoInputs.cache
+C:\Users\szucs.szilard\Desktop\berek-beadando\berek_2020\berek_2020\obj\Debug\net8.0\berek_2020.AssemblyInfo.cs
+C:\Users\szucs.szilard\Desktop\berek-beadando\berek_2020\berek_2020\obj\Debug\net8.0\berek_2020.csproj.CoreCompileInputs.cache
+C:\Users\szucs.szilard\Desktop\berek-beadando\berek_2020\berek_2020\obj\Debug\net8.0\berek_2020.dll
+C:\Users\szucs.szilard\Desktop\berek-beadando\berek_2020\berek_2020\obj\Debug\net8.0\refint\berek_2020.dll
+C:\Users\szucs.szilard\Desktop\berek-beadando\berek_2020\berek_2020\obj\Debug\net8.0\berek_2020.pdb
+C:\Users\szucs.szilard\Desktop\berek-beadando\berek_2020\berek_2020\obj\Debug\net8.0\berek_2020.genruntimeconfig.cache
+C:\Users\szucs.szilard\Desktop\berek-beadando\berek_2020\berek_2020\obj\Debug\net8.0\ref\berek_2020.dll
